@@ -1,5 +1,5 @@
-1.WPU Resolusi
-2.Membuat Tag html
-3.Membuat waktu/tgl
-4.Membuat Image
-5.Membuat color write
+WPU Resolusi
+Membuat Tag html
+Membuat waktu/tgl
+Membuat Image
+Membuat color write
